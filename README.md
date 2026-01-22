@@ -42,6 +42,7 @@ https://github.com/tom-snow/Sidestore-ClashMi/raw/refs/heads/master/profile_over
 
 7. 打开 Sidestore 测试效果
 
+PS: 如果提示 `The data couldn’t be read because it isn’t in the correct format.` 或者其他什么（签名时进度条没走到1/3后），主要检查网络连接，检查 `gsa.apple.com` 是否是通过了代理的，简单点就开全局模式。
 
 # 机场推荐
 
