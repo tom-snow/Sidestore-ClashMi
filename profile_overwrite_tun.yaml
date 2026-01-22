@@ -1,0 +1,49 @@
+tun:
+  enable: true
+  device: Clash Mi
+  stack: gVisor
+  dns-hijack:
+    - 0.0.0.0:53
+  auto-route: true
+  auto-detect-interface: false
+  mtu: 4064
+  gso: false
+  gso-max-size: 0
+  inet4-address:
+    - 198.18.0.1/30
+  inet6-address: []
+  iproute2-table-index: 0
+  iproute2-rule-index: 0
+  auto-redirect: false
+  auto-redirect-input-mark: 0
+  auto-redirect-output-mark: 0
+  loopback-address:
+    - 10.7.0.1
+  strict-route: false
+  route-address: []
+  route-address-set: []
+  route-exclude-address: []
+  route-exclude-address-set: []
+  include-interface: []
+  exclude-interface: []
+  include-uid: []
+  include-uid-range: []
+  exclude-uid: []
+  exclude-uid-range: []
+  exclude-src-port: []
+  exclude-src-port-range: []
+  exclude-dst-port: []
+  exclude-dst-port-range: []
+  include-android-user: []
+  include-package: []
+  exclude-package: []
+  endpoint-independent-nat: false
+  udp-timeout: 0
+  disable-icmp-forwarding: false
+  file-descriptor: 5
+  inet4-route-address: []
+  inet6-route-address: []
+  inet4-route-exclude-address: []
+  inet6-route-exclude-address: []
+  recvmsgx: true
+  sendmsgx: false
