@@ -3,7 +3,7 @@
 
 
 # 使用图文教程
-1. 从外区苹果商店下载 [Clash Mi](https://apps.apple.com/us/app/clash-mi/id6744321968) 【开源&免费软件】
+1. 从外区苹果商店下载 [Clash Mi](https://apps.apple.com/us/app/clash-mi/id6744321968) 【免费软件】
 
    <img width="550" height="216" alt="image" src="https://github.com/user-attachments/assets/dab0e86c-6090-463f-a206-bc754a1c4b88" />
 
