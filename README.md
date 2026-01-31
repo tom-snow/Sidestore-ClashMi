@@ -26,7 +26,7 @@
 https://github.com/tom-snow/Sidestore-ClashMi/raw/refs/heads/master/profile_overwrite_min.yaml
 ```
 
-【推荐】JS完整覆写配置，分流全
+~JS完整覆写配置，分流全~【Clash Mi 暂未支持JS覆写】
 ```
 https://github.com/tom-snow/Sidestore-ClashMi/raw/refs/heads/master/overwrite_mihomo.js
 ```
