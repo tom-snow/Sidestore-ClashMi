@@ -26,6 +26,11 @@
 https://github.com/tom-snow/Sidestore-ClashMi/raw/refs/heads/master/profile_overwrite_min.yaml
 ```
 
+【推荐】JS完整覆写配置，分流全
+```
+https://github.com/tom-snow/Sidestore-ClashMi/raw/refs/heads/master/overwrite_mihomo.js
+```
+
 完整 TUN 配置（部分参数可以自行下载修改）
 ```
 https://github.com/tom-snow/Sidestore-ClashMi/raw/refs/heads/master/profile_overwrite_tun.yaml
