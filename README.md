@@ -26,6 +26,9 @@
 https://github.com/tom-snow/Sidestore-ClashMi/raw/refs/heads/master/profile_overwrite_min.yaml
 ```
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9d65f2ee-1e25-4405-841a-f13d7f3965ca" />
+
+
 ~JS完整覆写配置，分流全~【Clash Mi 暂未支持JS覆写】
 ```
 https://github.com/tom-snow/Sidestore-ClashMi/raw/refs/heads/master/overwrite_mihomo.js
@@ -48,6 +51,10 @@ https://github.com/tom-snow/Sidestore-ClashMi/raw/refs/heads/master/profile_over
 7. 打开 Sidestore 测试效果
 
 PS: 如果提示 `The data couldn’t be read because it isn’t in the correct format.` 或者其他什么（签名时进度条没走到1/3后），主要检查网络连接，检查 `gsa.apple.com` 是否是通过了代理的，简单点就开全局模式。
+
+# 常见问题
+
+[【点这查看】](https://github.com/tom-snow/Sidestore-ClashMi/issues/5)
 
 # 机场推荐
 
